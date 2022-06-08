@@ -9,14 +9,17 @@ plants.push["weeds"]
 #pop will remove the last element in the array
 indexes.pop
 
-#shift will remove the first element in the array and return nil
+#shift will remove the first element in the array
 decimals.shift
 
-#unshift will return the shifted element to the array
+#unshift will return the element to the beginning of the array
 
-booleans.unshift()
+booleans.unshift(true)
 
 =begin the index position is the position of an element
 in the array. the counting method starts at 0 as the 1st
 position as outlined in the indexes array above.
 =end
+
+#calling the count method will return a count of elements in the array
+decimals.count
