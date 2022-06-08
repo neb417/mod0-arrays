@@ -4,7 +4,7 @@ decimals = [1.1, 2.02, 3.003, 4.004]
 booleans = [true, false, true, false]
 
 #push will add the new element to the array
-plants.push["weeds"]
+plants.push("weeds")
 
 #pop will remove the last element in the array
 indexes.pop
