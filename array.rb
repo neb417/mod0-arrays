@@ -15,3 +15,8 @@ decimals.shift
 #unshift will return the shifted element to the array
 
 booleans.unshift()
+
+=begin the index position is the position of an element
+in the array. the counting method starts at 0 as the 1st
+position as outlined in the indexes array above.
+=end
